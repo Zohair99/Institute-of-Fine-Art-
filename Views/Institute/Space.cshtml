@@ -1,0 +1,339 @@
+﻿@model IOFA.Models.Register
+
+@{
+    ViewData["Title"] = "IOFA | SPACE";
+    Layout = "~/Views/Shared/Institute.cshtml";
+}
+
+
+
+<!-- space slider -->
+
+<main>
+    <div class="space-section active">
+        <div class="space-text-content">
+            <div class="space-vertical-line"></div>
+            <div class="title-with-line">
+                <h2 class="space-title">OUR <br>SPACE</h2>
+            </div>
+            <p class="space-description">
+                IOFA Gallery display area is versatile and divided into three spaces: Gallery A, B and C. The
+                spaces are on split levels catering to varied exhibition areas simultaneously. White walls and grey
+                stone floor tiles offer a neutral background suited for the display of both traditional and
+                contemporary art.
+            </p>
+            <div class="space-links">
+                <a href="#displayarea">Display Area</a>
+                <a href="#researchlibrary">Research Library</a>
+                <a href="#apply">Apply Now</a>
+            </div>
+        </div>
+
+        <div class="space-image-container">
+            <div class="space-slider">
+                <img src="~/images/space1.png" alt="Gallery Space 1" class="space-image active">
+                <img src="~/images/space2.png" alt="Gallery Space 2" class="space-image">
+                <img src="~/images/space3.png" alt="Gallery Space 3" class="space-image">
+                <img src="~/images/space4.png" alt="Gallery Space 4" class="space-image">
+                <img src="~/images/space5.png" alt="Gallery Space 5" class="space-image">
+                <img src="~/images/space6.png" alt="Gallery Space 6" class="space-image">
+            </div>
+
+            <div class="space-slider-controls">
+                <button class="space-slider-arrow prev-arrow">&#10094;</button>
+                <button class="space-slider-arrow next-arrow">&#10095;</button>
+            </div>
+        </div>
+    </div>
+</main>
+
+<!-- space slider ends -->
+<!-- space gallery -->
+
+<div class="space-gallery-wrapper" id="displayarea">
+    <div class="space-gallery-title">Display Area</div>
+
+    <div class="space-gallery-arrow space-gallery-arrow-left">&#10094;</div>
+    <div class="space-gallery-arrow space-gallery-arrow-right">&#10095;</div>
+
+    <div class="space-gallery-slider" id="space-gallery-slider">
+        <div class="space-gallery-slide">
+            <img src="~/images/display1.png">
+        </div>
+        <div class="space-gallery-slide">
+            <img src="~/images/display2.png">
+        </div>
+        <div class="space-gallery-slide">
+            <img src="~/images/display3.png">
+        </div>
+        <div class="space-gallery-slide">
+            <img src="~/images/display4.png">
+        </div>
+        <div class="space-gallery-slide">
+            <img src="~/images/display5.png">
+        </div>
+    </div>
+    <div class="space-gallery-pagination" id="space-gallery-pagination"></div>
+</div>
+
+<!-- space gallery ends -->
+<!-- space gallery A . B . C -->
+
+<div class="space-gallery-slider-wrapper">
+    <div class="space-gallery-slider-paragraph">
+        IOFA Gallery display area is versatile and divided into three spaces: Gallery A, B and C. The spaces are
+        on split levels catering to varied exhibition areas simultaneously. White walls and grey stone floor tiles
+        offer a neutral background suited for the display of both traditional and contemporary art.
+    </div>
+
+    <div class="space-gallery-slider-tabs">
+        <span class="space-gallery-slider-tab active" onclick="showTab(0)">GALLERY A</span>
+        <span class="space-gallery-dot">.</span>
+        <span class="space-gallery-slider-tab" onclick="showTab(1)">GALLERY B</span>
+        <span class="space-gallery-dot">.</span>
+        <span class="space-gallery-slider-tab" onclick="showTab(2)">GALLERY C</span>
+    </div>
+
+    <div class="space-gallery-slider-arrow space-gallery-slider-arrow-left"></div>
+    <div class="space-gallery-slider-arrow space-gallery-slider-arrow-right"></div>
+
+    <div class="space-gallery-slider-content" id="space-gallery-slider-content">
+        <div class="space-gallery-slider-slide active">
+            <img src="~/images/galleryA.png" alt="Gallery A">
+        </div>
+        <div class="space-gallery-slider-slide">
+            <img src="~/images/galleryB.png" alt="Gallery B">
+        </div>
+        <div class="space-gallery-slider-slide">
+            <img src="~/images/galleryC.png" alt="Gallery C">
+        </div>
+    </div>
+    <div class="space-gallery-slider-paragraph">
+        Glass cube walls filter in natural light which can be adjusted. Elevated platforms along two wall lengths,
+        ideal for sculptures. Linear plan of the gallery layout lends itself well to narrative curatorial
+        frameworks.
+    </div>
+</div>
+
+<!-- space gallery A . B . C -->
+<!-- space specification -->
+
+<section class="space-gallery-specs">
+    <div class="space-gallery-specs-content">
+        <hr class="space-gallery-line" /><br>
+        <h2 class="space-gallery-specs-title">SPECIFICATIONS</h2>
+        <p class="space-gallery-specs-text">
+            Air conditioning and adjustable track lighting is available in all three Galleries. The wall sizes in
+            each gallery are variable, allowing for versatile displays. Each gallery is also fitted with
+            surveillance
+            cameras, multiple electricity outlets, and an audio system. A selection of pedestals and freestanding
+            walls of variable dimensions is also available for use. All usable walls are fitted with a hooking
+            system for hanging artworks.<br> The gallery is equipped with two bathroom units, two movable benches,
+            and a seating area near the
+            reception desk.
+        </p><br>
+        <hr class="space-gallery-line" />
+    </div>
+</section>
+
+<!-- space specification ends -->
+<!-- space offered / apply button -->
+
+<div class="space-offered-section" id="apply">
+    <h2 class="space-offered-title">SERVICES OFFERED</h2>
+
+    <table class="space-offered-table">
+        <thead>
+            <tr class="space-heading">
+                <th class="space-one"></th>
+                <th class="space-two">Audio</th>
+                <th class="space-three">Lights</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td data-label=""><br></td>
+                <td data-label="Audio"> </td>
+                <td data-label="Lights"> </td>
+            </tr>
+            <tr>
+                <td data-label="">
+                    Communication facilities include WiFi, an in house public address system and
+                    background music.
+                </td>
+                <td data-label="Audio">
+                    TOA Wall Ceiling Speaker Model No. BS-1130 (10 speakers in gallery space)
+                </td>
+                <td data-label="Lights">
+                    All three galleries are fitted with an adjustable track lighting system with
+                    two options for track lights in the following quantities:
+                </td>
+            </tr>
+            <tr>
+                <td data-label="">Printing of exhibition invitation cards, banners, promotional materials.</td>
+                <td data-label="Audio">TOA Mixer Amplifier Model No A – 2120</td>
+                <td data-label="Lights">Sixty-one 8W LED Warm White lights</td>
+            </tr>
+            <tr>
+                <td data-label="">Framing at cost</td>
+                <td data-label="Audio">TOA Volume Controller Model No AT – 303</td>
+                <td data-label="Lights">Twenty-nine 35W LED White lights</td>
+            </tr>
+            <tr>
+                <td data-label="">Display</td>
+                <td data-label="Audio">Shure Wireless Mic Model No pG-3</td>
+                <td data-label="Lights"></td>
+            </tr>
+            <tr>
+                <td data-label="">Backup generator system</td>
+                <td data-label="Audio"></td>
+                <td data-label="Lights"></td>
+            </tr>
+            <tr>
+                <td data-label="">Refreshments via the Community Center's onsite cafeteria</td>
+                <td data-label="Audio"></td>
+                <td data-label="Lights"></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr class="space-offered-divider">
+
+    <button class="space-offered-apply-btn" id="space-apply-btn">APPLY TO EXHIBIT YOUR WORK</button>
+
+    <!-- form -->
+
+    <div class="space-application-form" id="space-application-form">
+        <div class="space-application-container">
+            <div class="space-form-container">
+                <div class="space-form-toggle">
+                    <button class="space-form-btn active" id="space-login-btn">Login</button>
+                    <button class="space-form-btn" id="space-register-btn">Register</button>
+                </div>
+
+                <!-- Login Form -->
+                <form asp-action="LoginUser" method="post" class="space-form active" id="space-login-form">
+                    @Html.AntiForgeryToken()
+
+                    <h3 class="space-form-title">Login to Your Account</h3>
+
+                    <div class="space-form-group">
+                        <label for="login-email">Email:</label>
+                        <input type="email" id="login-email" name="Email" required>
+                    </div>
+
+                    <div class="space-form-group">
+                        <label for="login-password">Password:</label>
+                        <input type="password" id="login-password" name="Password" required>
+                    </div>
+
+                    <div class="space-form-options">
+                        <label class="space-remember">
+                            <input type="checkbox"> Remember me
+                        </label>
+                        <a href="#" class="space-forgot">Forgot password?</a>
+                    </div>
+
+                    <button type="submit" class="space-submit-btn">Login</button>
+
+                    <div class="space-form-footer">
+                        Don't have an account? <a href="#" id="show-register">Register here</a>
+                    </div>
+                </form>
+                <!-- Login Form ends -->
+                <!-- Registration Form -->
+
+                <form asp-action="SpaceRegister" method="post" class="space-form" id="space-register-form" >
+                    <h3 class="space-form-title">Create an Account</h3>
+
+                    <div class="space-form-group">
+                        <label for="register-name">Full Name:</label>
+                        <input asp-for="Name" type="text" id="register-name" required>
+                    </div>
+
+                    <div class="space-form-group">
+                        <label for="register-email">Email:</label>
+                        <input asp-for="Email" type="email" id="register-email" required>
+                    </div>
+
+                    <div class="space-form-group">
+                        <label for="register-password">Password:</label>
+                        <input asp-for="Password" type="password" id="register-password" required>
+                    </div>
+
+                    <div class="space-form-group">
+                        <label for="register-confirm">Confirm Password:</label>
+                        <input asp-for="CPassword" type="password" id="register-confirm" required>
+                    </div>
+
+                    <div class="space-form-group">
+                        <label for="register-phone">Phone Number:</label>
+                        <input asp-for="Phone" type="tel" id="register-phone">
+                    </div>
+
+                    <div class="space-form-group">
+                        <label for="register-artist">Are you an artist?</label>
+                        <select asp-for="Artist" id="register-artist">
+                            <option value="no">No</option>
+                            <option value="yes">Yes</option>
+                        </select>
+                    </div>
+
+                    <div class="space-form-agree">
+                        <input type="checkbox" id="register-terms" required>
+                        <label for="register-terms">I agree to the <a>Terms & Conditions</a></label>
+                    </div>
+
+                    <button type="submit" class="space-submit-btn">Register</button>
+
+                    <div class="space-form-footer">
+                        Already have an account? <a href="#" id="show-login">Login here</a>
+                    </div>
+                </form>
+
+                <!-- Registration Form ends -->
+
+            </div>
+        </div>
+    </div>
+
+    <!-- form ends -->
+
+</div>
+
+<!-- space offered / apply button ends -->
+<!-- research library -->
+
+<div class="research-page" id="researchlibrary">
+    <h1 class="research-heading">RESEARCH LIBRARY</h1>
+    <img src="~/images/resarchlibrary.png" alt="Research Library" class="research-image" />
+
+    <div class="research-content">
+        <p>
+            IOFA Gallery Resource Center is a research space which houses publications on Pakistani and
+            international visual arts and culture. Its non-circulating collection of books, exhibition catalogues,
+            directories, journals and magazines, is open and available for use by students, researchers and art
+            enthusiasts.
+        </p>
+
+        <div class="toggle-heading">
+            <span class="active" id="facilities-toggle">FACILITIES</span>
+            <span class="dot">.</span>
+            <span class="inactive" id="timings-toggle">TIMINGS</span>
+        </div>
+
+        <div class="content-section active" id="facilities-content">
+            <p>
+                The Resource Center provides two workstations with desktops, an in house printer and scanner, access
+                to the internet, and multimedia facilities including a TV screen.
+            </p>
+        </div>
+
+        <div class="content-section" id="timings-content">
+            <p>The center is open for visitors during gallery hours from 11am - 7pm Mondays till Saturdays.</p>
+        </div>
+    </div>
+</div>
+
+<!-- research library ends -->
+<!-- research library ends -->

@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "mystudents";
+    Layout = "~/Views/Shared/teacher.cshtml";
+}
+
+
+<!-- Main Content -->
+<div class="content-wrapper py-4 px-4">
+    <div class="card-style">
+        <h4 class="fw-bold mb-4"><i class="fa fa-users me-2 text-danger"></i>Competition Participants</h4>
+
+        <div class="table-responsive">
+            <table class="table table-bordered align-middle shadow-sm">
+                <thead class="table-light">
+                    <tr>
+                        <th>Photo</th>
+                        <th>Student Name</th>
+                        <th>Age Group</th>
+                        <th>Competition</th>
+                        <th>Artwork Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (int i = 1; i <= 5; i++)
+                    {
+                        <tr>
+                            <td><img src="~/assets/img/op.jpg" class="participant-img" alt="Art" /></td>
+                            <td>Ali Raza @i</td>
+                            <td>@(i % 2 == 0 ? "Junior" : "Senior")</td>
+                            <td>Color Burst 2025</td>
+                            <td>Impression of Light @i</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

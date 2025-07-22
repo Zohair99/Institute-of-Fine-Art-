@@ -1,0 +1,90 @@
+﻿
+@{
+    ViewData["Title"] = "AdminRegister";
+    Layout = "~/Views/Shared/Student.cshtml";
+}
+
+<!-- Dashboard Content -->
+<div class="dashboard-content px-4 py-4">
+    <div class="row g-4 mb-4">
+        
+        </div>
+    
+
+    <div class="row g-4">
+        <div class="col-lg-8">
+            <div class="welcome-box">
+                <h4 class="fw-bold mb-3">Welcome, @User.Identity?.Name!</h4>
+                <p class="mb-3">Track your artistic progress, view upcoming events, and manage your profile from this central hub.</p>
+                
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="welcome-box h-100">
+                <h5 class="fw-bold mb-3"><i class="fa fa-bolt text-warning me-2"></i>Quick Actions</h5>
+                <a href="@Url.Action("Upload", "Student")" class="btn btn-outline-primary btn-sm d-block mb-2"><i class="fa fa-upload me-1"></i> Upload Artwork</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Profile Content -->
+    <div class="dashboard-content pt-4 px-4">
+        <div class="container-fluid">
+            <div class="row g-4">
+                <!-- Sidebar Profile Info -->
+                <div class="col-lg-4 col-md-12">
+                    <div class="bg-white rounded shadow-sm text-center p-4 h-100">
+                        <img src="@Url.Content("~/Asset/img/user.jpg")" alt="Profile Picture"
+                             class="rounded-circle mb-3" style="width: 120px; height: 120px; object-fit: cover;">
+                        <h5 class="fw-bold mb-1"> @Context.Session.GetString("Name")</h5>
+                        <p class="text-muted">Student at VM Art Gallery</p>
+                        <hr>
+                        <div class="text-start">
+                            <h6 class="fw-semibold mb-2">Contact Info</h6>
+                            <p><i class="fa fa-envelope me-2"></i>@Context.Session.GetString("Email")</p>
+                            <p><i class="fa fa-phone-alt me-2"></i>@Context.Session.GetString("Phone")</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Main Profile Details -->
+                <div class="col-lg-8 col-md-12">
+                    <div class="bg-white rounded shadow-sm p-4 h-100">
+                        <h5 class="fw-bold mb-3">About Me</h5>
+                        <p>Hello, I'm <strong>@Context.Session.GetString("Name")</strong>, a passionate student at VM Art Gallery. I enjoy exploring different art forms including digital art, sketching, and painting.</p>
+                        <hr class="my-3">
+
+                        <h6 class="fw-semibold mb-3">Profile Overview</h6>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <p><strong>Role:</strong> Student</p>
+                                <p><strong>Joined:</strong> July 23, 2025</p>
+                            </div>
+                            
+                        </div>
+                        <hr class="my-3">
+
+                        <h6 class="fw-semibold mb-3">Skills</h6>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p><i class="fa fa-check-circle text-success me-2"></i> Drawing</p>
+                                <p><i class="fa fa-check-circle text-success me-2"></i> Watercolor</p>
+                            </div>
+                            <div class="col-md-6">
+                                <p><i class="fa fa-check-circle text-success me-2"></i> Digital Art</p>
+                                <p><i class="fa fa-check-circle text-success me-2"></i> Team Collaboration</p>
+                            </div>
+                        </div>
+                        <hr class="my-3">
+
+                        <h6 class="fw-semibold mb-3">Account</h6>
+                        
+                        <a href="@Url.Action("Space", "Institute")" class="btn btn-outline-danger btn-sm">
+                            <i class="fas fa-sign-out-alt me-1"></i> Logout
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

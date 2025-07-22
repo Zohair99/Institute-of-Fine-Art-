@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "delete";
+    Layout = "~/Views/Shared/Student.cshtml";
+}
+
+
+
+<!-- Delete Confirmation -->
+<div class="dashboard-content pt-4 px-4">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card-delete text-center">
+                    <h4 class="fw-bold text-danger mb-3">
+                        <i class="fa fa-exclamation-triangle me-2"></i> Confirm Delete
+                    </h4>
+                    <p class="text-muted">
+                        Are you sure you want to delete the following artwork? This action cannot be undone.
+                    </p>
+
+                    <img src="@Model.Path" class="art-img my-3" alt="Artwork Image">
+                    <h5 class="fw-semibold">@Model.Title</h5>
+
+                    <div class="mt-4 d-flex justify-content-center gap-3">
+                        <form method="post" action="@Url.Action("deleteConfirmed", "Student", new { id = Model.Id })">
+                            <button type="submit" class="btn btn-danger px-4">
+                                <i class="fa fa-trash me-1"></i> Yes, Delete
+                            </button>
+                        </form>
+                        <a href="@Url.Action("gallery", "Student")" class="btn btn-outline-secondary px-4">
+                            <i class="fa fa-times me-1"></i> Cancel
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

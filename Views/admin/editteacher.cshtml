@@ -1,0 +1,38 @@
+﻿@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+
+<div class="card-style">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h4 class="fw-bold mb-0">Edit Teacher</h4>
+        <a href="@Url.Action("Teachers", "Admin")" class="btn btn-sm btn-outline-secondary"><i class="fa fa-arrow-left me-1"></i> Back</a>
+    </div>
+
+    <form method="post" action="@Url.Action("UpdateTeacher", "Admin")">
+        <input type="hidden" name="TeacherId" value="123" />
+        <div class="mb-3">
+            <label class="form-label">Full Name</label>
+            <input type="text" name="Name" class="form-control" value="Ali Raza" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Email</label>
+            <input type="email" name="Email" class="form-control" value="ali.raza@example.com" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Phone</label>
+            <input type="text" name="Phone" class="form-control" value="03001234567" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Specialization</label>
+            <input type="text" name="Specialization" class="form-control" value="Painting" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Address</label>
+            <textarea name="Address" class="form-control" rows="3" required>House #123, Art Street, Lahore</textarea>
+        </div>
+        <div class="text-end">
+            <button type="submit" class="btn btn-danger px-4">Update Teacher</button>
+        </div>
+    </form>
+</div>

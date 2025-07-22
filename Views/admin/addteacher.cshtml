@@ -1,0 +1,37 @@
+﻿@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+
+<div class="card-style">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h4 class="fw-bold mb-0">Add New Teacher</h4>
+        <a href="@Url.Action("Teachers", "Admin")" class="btn btn-sm btn-outline-secondary"><i class="fa fa-arrow-left me-1"></i> Back</a>
+    </div>
+
+    <form method="post" action="@Url.Action("SaveTeacher", "Admin")">
+        <div class="mb-3">
+            <label class="form-label">Full Name</label>
+            <input type="text" name="Name" class="form-control" placeholder="Enter full name" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Email</label>
+            <input type="email" name="Email" class="form-control" placeholder="Enter email address" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Phone</label>
+            <input type="text" name="Phone" class="form-control" placeholder="Enter phone number" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Specialization</label>
+            <input type="text" name="Specialization" class="form-control" placeholder="e.g. Painting, Sculpture" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Address</label>
+            <textarea name="Address" class="form-control" rows="3" placeholder="Enter address" required></textarea>
+        </div>
+        <div class="text-end">
+            <button type="submit" class="btn btn-danger px-4">Save Teacher</button>
+        </div>
+    </form>
+</div>

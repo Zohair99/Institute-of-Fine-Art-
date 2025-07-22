@@ -1,0 +1,39 @@
+﻿@model List<IOFA.Models.Compitition>
+@{
+    ViewData["Title"] = "Competition";
+    Layout = "~/Views/Shared/Student.cshtml";
+}
+
+
+<!-- Dashboard Content -->
+<div class="dashboard-content p-4">
+    <h2 class="mb-4">Current Competitions</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">No competitions available.</div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-6 mb-4">
+                    <div class="form-card p-4">
+                        <h4 class="text-danger">@item.Title</h4>
+                        <p><strong>Theme:</strong> @item.Theme</p>
+                        <p><strong>Description:</strong> @item.Description</p>
+                        <p><strong>Deadline:</strong> @(item.SubmitDate.HasValue? item.SubmitDate.Value.ToString("yyyy-MM-dd") : "N/A")</p>
+
+                        <a href="@Url.Action("CompetitionUpload", "Student")" class="btn btn-danger btn-sm rounded-pill">
+                            <i class="fa fa-upload me-1"></i> Upload Artwork
+                        </a>
+
+
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+

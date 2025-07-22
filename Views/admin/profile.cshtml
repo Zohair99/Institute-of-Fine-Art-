@@ -1,0 +1,35 @@
+﻿@model IOFA.Models.Admin
+
+@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+<div class="card-style">
+    <div class="text-center mb-4">
+        <img src="~/Admin/img/user.jpg" class="rounded-circle profile-img mb-3" alt="Admin Profile" />
+        <h4 class="fw-bold mb-1">Administrator</h4>
+        <p class="text-muted">@Context.Session.GetString("AdminEmail")</p>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            <label class="form-label">Full Name</label>
+            <div class="form-control">@Context.Session.GetString("AdminName") </div>
+        </div>
+        <div class="col-md-6 mb-3">
+            <label class="form-label">Username</label>
+            <div class="form-control">@Context.Session.GetString("AdminName") </div>
+        </div>
+        <div class="col-md-6 mb-3">
+            <label class="form-label">Email</label>
+            <div class="form-control">@Context.Session.GetString("AdminEmail") </div>
+        </div>
+        <div class="col-md-6 mb-3">
+            <label class="form-label">Phone</label>
+            <div class="form-control">@Context.Session.GetString("AdminPhone") </div>
+        </div>
+        
+    </div>
+
+   
+</div>

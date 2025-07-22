@@ -1,0 +1,40 @@
+﻿@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+
+<div class="card-style">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h4 class="fw-bold mb-0">Student Details</h4>
+        <a href="@Url.Action("Students", "Admin")" class="btn btn-sm btn-outline-secondary"><i class="fa fa-arrow-left me-1"></i> Back</a>
+    </div>
+    <div class="row">
+        <div class="col-md-4 text-center mb-4">
+            <img src="~/Admin/img/user.jpg" class="rounded-circle student-img mb-3" />
+            <h5 class="fw-semibold mb-1">Fatima Zahra</h5>
+            <small class="text-muted">Grade 8</small>
+        </div>
+        <div class="col-md-8">
+            <div class="row mb-3">
+                <div class="col-5 info-title">Email:</div>
+                <div class="col-7 info-data">fatima.zahra@example.com</div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-5 info-title">Date of Birth:</div>
+                <div class="col-7 info-data">2009-04-15</div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-5 info-title">Address:</div>
+                <div class="col-7 info-data">123 Street, Karachi</div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-5 info-title">Registered On:</div>
+                <div class="col-7 info-data">2025-03-21</div>
+            </div>
+            <div class="row">
+                <div class="col-5 info-title">Parent Contact:</div>
+                <div class="col-7 info-data">+92-300-1234567</div>
+            </div>
+        </div>
+    </div>
+</div>

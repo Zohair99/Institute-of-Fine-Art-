@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewData["Title"] = "edit";
+    Layout = "~/Views/Shared/Student.cshtml";
+}
+
+
+<!-- Edit Form -->
+<div class="dashboard-content pt-4 px-4">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-md-10 col-lg-8">
+                <div class="form-card">
+                    <h4 class="fw-bold mb-3 text-danger"><i class="fa fa-pen me-2"></i> Edit Artwork</h4>
+                    <form method="post" enctype="multipart/form-data" action="@Url.Action("edit", "Student", new { id = Model.Id })">
+
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Artwork Title</label>
+                            <input type="text" name="Title" value="@Model.Title" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Description</label>
+                            <textarea name="Description" rows="4" class="form-control" required>@Model.Description</textarea>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Current Artwork</label><br />
+                            <img src="@Model.Path" alt="Artwork Preview" class="preview-img" />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label fw-semibold">Change Image (optional)</label>
+                            <input type="file" name="ArtworkImage" class="form-control" />
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <a href="@Url.Action("gallery", "Student")" class="btn btn-outline-secondary">
+                                <i class="fa fa-arrow-left me-1"></i> Cancel
+                            </a>
+                            <button type="submit" class="btn btn-danger">
+                                <i class="fa fa-save me-1"></i> Save Changes
+                            </button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

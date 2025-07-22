@@ -1,0 +1,185 @@
+﻿
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Teacher Dashboard - IOFA GALLERY</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Favicon -->
+    <link rel="icon" href="/Asset/img/favicon.icon" />
+
+    <!-- Fonts and Icons -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #f4f6f9;
+        }
+
+        .sidebar {
+            width: 250px;
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            background: #ffffff;
+            padding-top: 80px;
+            box-shadow: 2px 0 10px rgba(0,0,0,0.05);
+            z-index: 1000;
+            transition: margin 0.3s ease;
+        }
+
+        .topbar, .content-area, .footer {
+            margin-left: 250px;
+            transition: margin 0.3s ease;
+        }
+
+        .topbar {
+            background: #fff;
+            padding: 15px 30px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .card-box {
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+            padding: 20px;
+            transition: all 0.3s ease;
+            height: 100%;
+        }
+
+            .card-box:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+            }
+
+        .profile-summary img {
+            width: 80px;
+            height: 80px;
+            object-fit: cover;
+        }
+
+        .task-hover:hover {
+            background-color: #f8f9fa;
+            cursor: pointer;
+        }
+
+        .footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-left: 250px;
+        }
+
+        body.collapsed .sidebar {
+            margin-left: -250px;
+        }
+
+        body.collapsed .topbar,
+        body.collapsed .content-area,
+        body.collapsed .footer {
+            margin-left: 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Sidebar -->
+    <div class="sidebar shadow-sm px-4 pt-4">
+        <a href="@Url.Action("home1", "teacher")" class="d-flex align-items-center mb-4 text-decoration-none">
+            <i class="fa fa-palette text-danger fs-4 me-2"></i>
+            <span class="fs-5 fw-bold text-dark">IOFA Gallery</span>
+        </a>
+        <div class="d-flex align-items-center mb-4">
+            <div class="position-relative">
+                <img src="~/Asset/img/user.jpg" class="rounded-circle" style="width: 45px; height: 45px;" />
+                <span class="position-absolute end-0 bottom-0 bg-success border border-white rounded-circle p-1"></span>
+            </div>
+            <div class="ms-3">
+                <h6 class="mb-0 fw-semibold">@Context.Session.GetString("TeacherName")</h6>
+                <small class="text-muted">Teacher</small>
+            </div>
+        </div>
+        <nav class="nav flex-column">
+            <a href="@Url.Action("home1", "teacher")" class="nav-link py-2 px-3 mb-2 text-dark"><i class="fa fa-home me-2"></i> Dashboard</a>
+            <a href="@Url.Action("manage", "teacher")" class="nav-link py-2 px-3 mb-2 text-dark"><i class="fa fa-award me-2"></i> Competitions</a>
+            <a href="@Url.Action("criteria", "teacher")" class="nav-link py-2 px-3 mb-2 text-dark"><i class="fa fa-tasks me-2"></i> Art Criteria</a>
+            <a href="@Url.Action("arts", "teacher")" class="nav-link py-2 px-3 mb-2 text-dark"><i class="fas fa-palette me-2"></i> Student Arts</a>
+            <a href="@Url.Action("awards", "teacher")" class="nav-link py-2 px-3 mb-2 text-dark"><i class="fas fa-trophy me-2"></i> Art Awards</a>
+            <a href="@Url.Action("CompetitionArt", "teacher")" class="nav-link py-2 px-3 mb-2 text-dark"><i class="fa fa-image me-2"></i> Competition Art</a>
+        </nav>
+    </div>
+
+    <!-- Topbar -->
+    <nav class="topbar navbar navbar-expand-lg navbar-light bg-white border-bottom px-4 py-3 shadow-sm">
+        <div class="container-fluid">
+            <a href="javascript:void(0);" id="toggleSidebar" class="text-dark me-3"><i class="fa fa-bars"></i></a>
+
+            <form class="d-none d-md-flex ms-2 w-50">
+                <input class="form-control shadow-sm rounded-pill px-4" type="search" placeholder="Search...">
+            </form>
+
+            <div class="d-flex align-items-center ms-auto">
+                
+
+                <div class="dropdown me-3">
+                    <a href="#" class="nav-link dropdown-toggle text-dark" data-bs-toggle="dropdown">
+                        <i class="fa fa-bell me-1 text-warning"></i><span class="d-none d-lg-inline">Notifications</span>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-end shadow-sm">
+                        <li><a class="dropdown-item text-center" href="#">View all notifications</a></li>
+                    </ul>
+                </div>
+
+                <div class="dropdown">
+                    <a href="#" class="nav-link dropdown-toggle d-flex align-items-center text-dark" data-bs-toggle="dropdown">
+                        <img class="rounded-circle me-2" src="@Url.Content("~/Asset/img/user.jpg")" style="width: 36px; height: 36px;" alt="Avatar">
+                        <span class="d-none d-lg-inline fw-semibold">@Context.Session.GetString("TeacherName")</span>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-end shadow-sm">
+                        <li><a class="dropdown-item" href="@Url.Action("home1", "teacher")">My Profile</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" asp-action="Logout" asp-controller="teacher">Log Out</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="content-area p-4">
+        @RenderBody()
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        &copy; 2025 <strong> IOFA Gallery</strong>. All rights reserved.
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var toggleBtn = document.getElementById("toggleSidebar");
+            if (toggleBtn) {
+                toggleBtn.addEventListener("click", function () {
+                    document.body.classList.toggle("collapsed");
+                });
+            }
+        });
+    </script>
+</body>
+</html>

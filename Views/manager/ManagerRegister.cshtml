@@ -1,0 +1,163 @@
+﻿@model IOFA.Models.Manager
+
+@{
+    ViewData["Title"] = "ManagerRegister";
+    Layout = "~/Views/Shared/Institute.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manager Login/Register</title>
+    <link rel="stylesheet" href="~/styless/style.css">
+</head>
+
+<body>
+    <div class="manager-admin-application-container">
+        <div class="manager-admin-form-container" style="opacity: 1; transform: translateY(0);">
+            <div class="manager-admin-form-toggle">
+                <button class="manager-admin-form-btn active" id="manager-admin-login-btn">Login</button>
+                <button class="manager-admin-form-btn" id="manager-admin-register-btn">Register</button>
+            </div>
+
+            <!-- Login Form -->
+            <form asp-action="ManagerLogin" method="post" class="manager-admin-form active" id="manager-admin-login-form">
+                <h3 class="manager-admin-form-title">Login to Your Account</h3>
+
+                <div class="manager-admin-form-group">
+                    <label for="manager-admin-login-email">Email:</label>
+                    <input type="email" id="manager-admin-login-email" name="Email" required>
+                </div>
+
+                <div class="manager-admin-form-group">
+                    <label for="manager-admin-login-password">Password:</label>
+                    <input type="password" id="manager-admin-login-password" name="Password" required>
+                </div>
+
+                <div class="manager-admin-form-options">
+                    <label class="manager-admin-remember">
+                        <input type="checkbox"> Remember me
+                    </label>
+                </div>
+
+                <button type="submit" class="manager-admin-submit-btn">Login</button>
+
+                <div class="manager-admin-form-footer">
+                    Don't have an account? <a href="#" id="manager-admin-show-register">Register here</a>
+                </div>
+            </form>
+
+
+            <!-- Registration Form -->
+            <form asp-action="ManagerRegister" method="post" class="manager-admin-form" id="manager-admin-register-form">
+                <h3 class="manager-admin-form-title">Create an Account</h3>
+
+                <div class="manager-admin-form-group">
+                    <label for="manager-admin-register-name">Full Name:</label>
+                    <input type="text" id="manager-admin-register-name" name="Name" required>
+                </div>
+
+                <div class="manager-admin-form-group">
+                    <label for="manager-admin-register-email">Email:</label>
+                    <input type="email" id="manager-admin-register-email" name="Email" required>
+                </div>
+
+                <div class="manager-admin-form-group">
+                    <label for="manager-admin-register-password">Password:</label>
+                    <input type="password" id="manager-admin-register-password" name="Password" required>
+                </div>
+
+                <div class="manager-admin-form-group">
+                    <label for="manager-admin-register-confirm">Confirm Password:</label>
+                    <input type="password" id="manager-admin-register-confirm" name="ConfirmPassword" required>
+                </div>
+
+                <div class="manager-admin-form-group">
+                    <label for="manager-admin-register-phone">Phone Number:</label>
+                    <input type="tel" id="manager-admin-register-phone" name="Phone">
+                </div>
+
+                <div class="manager-admin-form-group">
+                    <label for="manager-admin-register-role">Role:</label>
+                    <select id="manager-admin-register-role" name="Role">
+                        <option value="manager">Manager</option>
+                        
+                    </select>
+                </div>
+
+                <div class="manager-admin-form-agree">
+                    <input type="checkbox" id="manager-admin-register-terms" name="AgreeTerms" required>
+                    <label for="manager-admin-register-terms">I agree to the <a>Terms & Conditions</a></label>
+                </div>
+
+                <button type="submit" class="manager-admin-submit-btn">Register</button>
+
+                <div class="manager-admin-form-footer">
+                    Already have an account? <a href="#" id="manager-admin-show-login">Login here</a>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</body>
+
+</html>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const loginBtn = document.getElementById('manager-admin-login-btn');
+        const registerBtn = document.getElementById('manager-admin-register-btn');
+        const loginForm = document.getElementById('manager-admin-login-form');
+        const registerForm = document.getElementById('manager-admin-register-form');
+        const showRegister = document.getElementById('manager-admin-show-register');
+        const showLogin = document.getElementById('manager-admin-show-login');
+
+        function switchToLogin() {
+            loginBtn.classList.add('active');
+            registerBtn.classList.remove('active');
+            loginForm.classList.add('active');
+            registerForm.classList.remove('active');
+        }
+
+        function switchToRegister() {
+            registerBtn.classList.add('active');
+            loginBtn.classList.remove('active');
+            registerForm.classList.add('active');
+            loginForm.classList.remove('active');
+        }
+
+        loginBtn.addEventListener('click', function (e) {
+            e.preventDefault();
+            switchToLogin();
+        });
+
+        registerBtn.addEventListener('click', function (e) {
+            e.preventDefault();
+            switchToRegister();
+        });
+
+        if (showRegister) {
+            showRegister.addEventListener('click', function (e) {
+                e.preventDefault();
+                switchToRegister();
+            });
+        }
+
+        if (showLogin) {
+            showLogin.addEventListener('click', function (e) {
+                e.preventDefault();
+                switchToLogin();
+            });
+        }
+
+        const loginFormEl = document.getElementById('manager-admin-login-form');
+       
+
+        const registerFormEl = document.getElementById('manager-admin-register-form');
+        
+    });
+</script>
+

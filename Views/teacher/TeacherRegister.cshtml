@@ -1,0 +1,165 @@
+﻿@model IOFA.Models.Teacher
+
+@{
+    ViewData["Title"] = "TeacherRegister";
+    Layout = "~/Views/Shared/Institute.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher Login/Register</title>
+    <link rel="stylesheet" href="~/style/style.css">
+    <link rel="stylesheet" href="~/styless/style.css">
+</head>
+
+<body>
+    <div class="teacher-admin-application-container">
+        <div class="teacher-admin-form-container" style="opacity: 1; transform: translateY(0);">
+            <div class="teacher-admin-form-toggle">
+                <button class="teacher-admin-form-btn active" id="teacher-admin-login-btn">Login</button>
+                <button class="teacher-admin-form-btn" id="teacher-admin-register-btn">Register</button>
+            </div>
+
+            <!-- Login Form -->
+            <form asp-action="TeacherLogin" method="post" class="teacher-admin-form active" id="teacher-admin-login-form">
+                <h3 class="teacher-admin-form-title">Login to Your Account</h3>
+
+                <div class="teacher-admin-form-group">
+                    <label for="teacher-admin-login-email">Email:</label>
+                    <input type="email" id="teacher-admin-login-email" name="Email" required>
+                </div>
+
+                <div class="teacher-admin-form-group">
+                    <label for="teacher-admin-login-password">Password:</label>
+                    <input type="password" id="teacher-admin-login-password" name="Password" required>
+                </div>
+
+                <div class="manager-admin-form-options">
+                    <label class="manager-admin-remember">
+                        <input type="checkbox"> Remember me
+                    </label>
+                </div>
+
+                <button type="submit" class="teacher-admin-submit-btn">Login</button>
+
+                <div class="manager-admin-form-footer">
+                    Don't have an account? <a href="#" id="manager-admin-show-register">Register here</a>
+                </div>
+            </form>
+
+            <!-- Registration Form -->
+           
+
+<form asp-action="TeacherRegister" method="post" class="teacher-admin-form" id="teacher-admin-register-form">
+    <h3 class="teacher-admin-form-title">Create an Account</h3>
+
+    <div class="teacher-admin-form-group">
+        <label asp-for="Name">Full Name:</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+
+    <div class="teacher-admin-form-group">
+        <label asp-for="Email">Email:</label>
+        <input asp-for="Email" type="email" class="form-control" />
+    </div>
+
+    <div class="teacher-admin-form-group">
+        <label asp-for="Password">Password:</label>
+        <input asp-for="Password" type="password" class="form-control" />
+    </div>
+
+    <div class="teacher-admin-form-group">
+        <label asp-for="CPassword">Confirm Password:</label>
+        <input asp-for="CPassword" type="password" class="form-control" />
+    </div>
+
+    <div class="teacher-admin-form-group">
+        <label asp-for="Phone">Phone Number:</label>
+        <input asp-for="Phone" type="tel" class="form-control" />
+    </div>
+
+    <div class="teacher-admin-form-group">
+        <label asp-for="Role">Role:</label>
+        <select asp-for="Role" class="form-control">
+            <option value="">-- Select Role --</option>
+            <option value="teacher">Teacher</option>
+        </select>
+    </div>
+
+    <div class="teacher-admin-form-agree">
+        <input type="checkbox" id="teacher-admin-register-terms" required>
+        <label for="teacher-admin-register-terms">I agree to the <a>Terms & Conditions</a></label>
+    </div>
+
+    <button type="submit" class="teacher-admin-submit-btn">Register</button>
+
+    <div class="teacher-admin-form-footer">
+        Already have an account? <a href="#" id="teacher-admin-show-login">Login here</a>
+    </div>
+</form>
+
+        </div>
+    </div>
+</body>
+
+</html>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const loginBtn = document.getElementById('teacher-admin-login-btn');
+        const registerBtn = document.getElementById('teacher-admin-register-btn');
+        const loginForm = document.getElementById('teacher-admin-login-form');
+        const registerForm = document.getElementById('teacher-admin-register-form');
+        const showRegister = document.getElementById('teacher-admin-show-register');
+        const showLogin = document.getElementById('teacher-admin-show-login');
+
+        function switchToLogin() {
+            loginBtn.classList.add('active');
+            registerBtn.classList.remove('active');
+            loginForm.classList.add('active');
+            registerForm.classList.remove('active');
+        }
+
+        function switchToRegister() {
+            registerBtn.classList.add('active');
+            loginBtn.classList.remove('active');
+            registerForm.classList.add('active');
+            loginForm.classList.remove('active');
+        }
+
+        loginBtn.addEventListener('click', function (e) {
+            e.preventDefault();
+            switchToLogin();
+        });
+
+        registerBtn.addEventListener('click', function (e) {
+            e.preventDefault();
+            switchToRegister();
+        });
+
+        if (showRegister) {
+            showRegister.addEventListener('click', function (e) {
+                e.preventDefault();
+                switchToRegister();
+            });
+        }
+
+        if (showLogin) {
+            showLogin.addEventListener('click', function (e) {
+                e.preventDefault();
+                switchToLogin();
+            });
+        }
+
+        const loginFormEl = document.getElementById('teacher-admin-login-form');
+        
+
+        const registerFormEl = document.getElementById('teacher-admin-register-form');
+        
+    });
+</script>
+

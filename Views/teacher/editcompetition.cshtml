@@ -1,0 +1,47 @@
+﻿@model IOFA.Models.Compitition
+@{
+    ViewData["Title"] = "editcompetitions";
+    Layout = "~/Views/Shared/teacher.cshtml";
+}
+
+
+<!-- Main Content -->
+<div class="content-wrapper py-4 px-4">
+    <div class="card-style">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h4 class="fw-bold mb-0"><i class="fa fa-edit me-2 text-danger"></i>Edit Art Competition</h4>
+            <a href="@Url.Action("manage", "teacher")" class="btn btn-outline-secondary">
+                <i class="fa fa-arrow-left me-1"></i> Back
+            </a>
+        </div>
+
+        <form asp-action="editcompetition" method="post">
+            <input type="hidden" asp-for="Id" />
+
+            <div class="mb-3">
+                <label asp-for="Title" class="form-label"></label>
+                <input asp-for="Title" class="form-control shadow-sm" />
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Theme" class="form-label"></label>
+                <input asp-for="Theme" class="form-control shadow-sm" />
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label"></label>
+                <textarea asp-for="Description" class="form-control shadow-sm" rows="4"></textarea>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="SubmitDate" class="form-label">Submission Deadline</label>
+                <input asp-for="SubmitDate" class="form-control shadow-sm" type="date" />
+            </div>
+
+            <button type="submit" class="btn btn-danger px-4 rounded-pill">
+                <i class="fa fa-save me-1"></i> Update Competition
+            </button>
+        </form>
+
+    </div>
+</div>

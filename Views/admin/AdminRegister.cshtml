@@ -1,0 +1,164 @@
+﻿@model IOFA.Models.Admin
+
+@{
+    ViewData["Title"] = "AdminRegister";
+    Layout = "~/Views/Shared/Institute.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Login/Register</title>
+    <link rel="stylesheet" href="~/styles/style.css">
+</head>
+
+<body>
+    <div class="administration-admin-application-container">
+        <div class="administration-admin-form-container" style="opacity: 1; transform: translateY(0);">
+            <div class="administration-admin-form-toggle">
+                <button class="administration-admin-form-btn active" id="administration-admin-login-btn">Login</button>
+                <button class="administration-admin-form-btn" id="administration-admin-register-btn">Register</button>
+            </div>
+
+            <!-- Login Form -->
+            <form asp-action="AdminLogin" method="post" class="administration-admin-form active" id="administration-admin-login-form">
+                <h3 class="administration-admin-form-title">Login to Your Account</h3>
+
+                <div class="administration-admin-form-group">
+                    <label for="administration-admin-login-email">Email:</label>
+                    <input type="email" id="administration-admin-login-email" name="Email" required />
+                </div>
+
+                <div class="administration-admin-form-group">
+                    <label for="administration-admin-login-password">Password:</label>
+                    <input type="password" id="administration-admin-login-password" name="Password" required />
+                </div>
+
+                <div class="administration-admin-form-options">
+                    <label class="administration-admin-remember">
+                        <input type="checkbox"> Remember me
+                    </label>
+                    <a href="#" class="administration-admin-forgot">Forgot password?</a>
+                </div>
+
+                <button type="submit" class="administration-admin-submit-btn">Login</button>
+
+                <div class="administration-admin-form-footer">
+                    Don't have an account? <a href="#" id="administration-admin-show-register">Register here</a>
+                </div>
+            </form>
+
+
+            <!-- Registration Form -->
+            <form asp-action="AdminRegister" method="post" class="administration-admin-form" id="administration-admin-register-form">
+                <h3 class="administration-admin-form-title">Create an Account</h3>
+
+                <div class="administration-admin-form-group">
+                    <label for="administration-admin-register-name">Full Name:</label>
+                    <input type="text" id="administration-admin-register-name" name="Name" required>
+                </div>
+
+                <div class="administration-admin-form-group">
+                    <label for="administration-admin-register-email">Email:</label>
+                    <input type="email" id="administration-admin-register-email" name="Email" required>
+                </div>
+
+                <div class="administration-admin-form-group">
+                    <label for="administration-admin-register-password">Password:</label>
+                    <input type="password" id="administration-admin-register-password" name="Password" required>
+                </div>
+
+                <div class="administration-admin-form-group">
+                    <label for="administration-admin-register-confirm">Confirm Password:</label>
+                    <input type="password" id="administration-admin-register-confirm" name="CPassword" required>
+                </div>
+
+                <div class="administration-admin-form-group">
+                    <label for="administration-admin-register-phone">Phone Number:</label>
+                    <input type="tel" id="administration-admin-register-phone" name="Phone">
+                </div>
+
+                <div class="administration-admin-form-group">
+                    <label for="administration-admin-register-role">Role:</label>
+                    <select id="administration-admin-register-role" name="Role">
+                        <option value="administration">Administration</option>
+                        <option value="admin">Administrator</option>
+                    </select>
+                </div>
+
+                <div class="administration-admin-form-agree">
+                    <input type="checkbox" id="administration-admin-register-terms" name="AgreeToTerms" required>
+                    <label for="administration-admin-register-terms">I agree to the <a>Terms & Conditions</a></label>
+                </div>
+
+                <button type="submit" class="administration-admin-submit-btn">Register</button>
+
+                <div class="administration-admin-form-footer">
+                    Already have an account? <a href="#" id="administration-admin-show-login">Login here</a>
+                </div>
+            </form>
+
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const loginBtn = document.getElementById('administration-admin-login-btn');
+            const registerBtn = document.getElementById('administration-admin-register-btn');
+            const loginForm = document.getElementById('administration-admin-login-form');
+            const registerForm = document.getElementById('administration-admin-register-form');
+            const showRegister = document.getElementById('administration-admin-show-register');
+            const showLogin = document.getElementById('administration-admin-show-login');
+
+            function switchToLogin() {
+                loginBtn.classList.add('active');
+                registerBtn.classList.remove('active');
+                loginForm.classList.add('active');
+                registerForm.classList.remove('active');
+            }
+
+            function switchToRegister() {
+                registerBtn.classList.add('active');
+                loginBtn.classList.remove('active');
+                registerForm.classList.add('active');
+                loginForm.classList.remove('active');
+            }
+
+            loginBtn.addEventListener('click', function (e) {
+                e.preventDefault();
+                switchToLogin();
+            });
+
+            registerBtn.addEventListener('click', function (e) {
+                e.preventDefault();
+                switchToRegister();
+            });
+
+            if (showRegister) {
+                showRegister.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    switchToRegister();
+                });
+            }
+
+            if (showLogin) {
+                showLogin.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    switchToLogin();
+                });
+            }
+
+            const loginFormEl = document.getElementById('administration-admin-login-form');
+            
+
+            const registerFormEl = document.getElementById('administration-admin-register-form');
+            
+        });
+    </script>
+</body>
+
+</html>
+

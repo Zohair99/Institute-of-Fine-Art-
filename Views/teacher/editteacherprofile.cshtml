@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "editteacherprofile";
+    Layout = "~/Views/Shared/teacher.cshtml";
+}
+
+
+<!-- Main Scrollable Content -->
+<div class="main-scrollable-content">
+    <div class="card-style">
+        <h4 class="fw-bold mb-4"><i class="fa fa-user-edit me-2 text-danger"></i>Edit Profile</h4>
+        <form method="post" action="@Url.Action("teacherprofile", "teacher")">
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label>Full Name</label>
+                    <input type="text" class="form-control" value="Ms. Ayesha Khan" />
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label>Email</label>
+                    <input type="email" class="form-control" value="ayesha.khan@vmartgallery.com" />
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label>Phone</label>
+                    <input type="text" class="form-control" value="+92 300 1234567" />
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label>Address</label>
+                    <input type="text" class="form-control" value="Model Town, Lahore, Pakistan" />
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label>Specialty</label>
+                    <input type="text" class="form-control" value="Abstract Art & Sculpture" />
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label>Experience</label>
+                    <input type="text" class="form-control" value="8 Years" />
+                </div>
+            </div>
+            <div class="mt-4">
+                <button type="submit" class="btn btn-danger save-btn"><i class="fa fa-save me-1"></i>Save Changes</button>
+            </div>
+        </form>
+    </div>

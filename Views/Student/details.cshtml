@@ -1,0 +1,52 @@
+﻿@model IOFA.Models.Art
+@{
+    ViewData["Title"] = "details";
+    Layout = "~/Views/Shared/Student.cshtml";
+}
+
+
+
+<!-- Art Details -->
+<div class="dashboard-content pt-4 px-4">
+    <div class="container-fluid">
+        <div class="row g-4">
+            <div class="col-lg-8">
+                <div class="bg-white p-4 rounded shadow-sm">
+                    <img src="@Model.Path" alt="Artwork Image" class="art-image mb-4" />
+                    <h4 class="fw-bold mb-2">@Model.Title</h4>
+                    <p class="text-muted">@Model.Description</p>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="remark-box">
+                    <h5 class="fw-semibold mb-3">
+                        <i class="fa fa-comments me-2 text-success"></i> Teacher Remarks
+                    </h5>
+
+                    @if (ViewBag.Remarks != null && ((List<IOFA.Models.Remark>)ViewBag.Remarks).Any())
+                    {
+                        foreach (var r in (List<IOFA.Models.Remark>)ViewBag.Remarks)
+                        {
+                            <div class="mb-3 p-3 bg-light rounded">
+                                <p class="mb-1">"@r.Comment"</p>
+                                <small class="text-muted">
+                                    <i class="fa fa-user me-1"></i>@r.TeacherName | 
+                                    <i class="fa fa-clock me-1"></i>@r.CreatedAt.ToString("dd MMM yyyy")
+                                </small>
+                            </div>
+                        }
+                    }
+                    else
+                    {
+                        <p class="text-muted">No remarks yet.</p>
+                    }
+
+                    <a href="@Url.Action("Gallery", "Student")" class="btn btn-outline-primary mt-4">
+                        <i class="fa fa-arrow-left me-1"></i> Back to Gallery
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "viewarts";
+    Layout = "~/Views/Shared/teacher.cshtml";
+}
+
+
+<!-- Scrollable Main Content -->
+<div class="main-scrollable-content">
+    <div class="card-style">
+        <div class="mb-4 d-flex justify-content-between align-items-center">
+            <h4 class="fw-bold mb-0"><i class="fa fa-eye me-2 text-danger"></i>View Artwork</h4>
+            <a href="@Url.Action("arts", "teacher")" class="btn btn-outline-secondary btn-sm btn-back"><i class="fa fa-arrow-left me-1"></i>Back to Arts</a>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-4">
+                <img src="@Url.Content("~/assets/img/op.jpg")" alt="Artwork" class="art-image">
+            </div>
+            <div class="col-md-6">
+                <h5 class="fw-bold">Title: Abstract Emotions</h5>
+                <p><strong>Student Name:</strong> Ali Raza</p>
+                <p><strong>Grade:</strong> 8th</p>
+                <p><strong>Submitted On:</strong> July 10, 2025</p>
+                <p><strong>Description:</strong> A vivid representation of emotional complexity through color and texture. Uses bold strokes and a dynamic palette to express internal struggles and hope.</p>
+            </div>
+        </div>
+    </div>

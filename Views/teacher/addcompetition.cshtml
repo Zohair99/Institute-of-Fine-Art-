@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewData["Title"] = "addcompetition";
+    Layout = "~/Views/Shared/teacher.cshtml";
+}
+
+
+<!-- Main Content -->
+<div class="content-wrapper py-4 px-4">
+    <div class="card-style mx-auto" style="max-width: 850px;">
+        <h4 class="fw-bold mb-4"><i class="fa fa-plus-circle me-2 text-danger"></i>Add New Art Competition</h4>
+
+        <form method="post" enctype="multipart/form-data" action="@Url.Action("SaveCompetition", "teacher")">
+            <div class="mb-3">
+                <label class="form-label">Competition Title</label>
+                <input type="text" name="title" class="form-control" placeholder="e.g. Colors of Culture" required />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Theme</label>
+                <input type="text" name="theme" class="form-control" placeholder="e.g. Nature, Abstract, Emotions" required />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Deadline</label>
+                <input type="date" name="SubmitDate" class="form-control" required />
+
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Description</label>
+                <textarea name="description" class="form-control" rows="5" placeholder="Write a short description for the competition..." required></textarea>
+            </div>
+
+            <div class="text-end">
+                <button type="submit" class="btn btn-danger rounded-pill px-4">Add Competition</button>
+            </div>
+        </form>
+    </div>
+</div>

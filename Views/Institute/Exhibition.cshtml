@@ -1,0 +1,125 @@
+﻿@model IEnumerable<IOFA.Models.Exhibition>
+@{
+    ViewData["Title"] = "IOFA | EXHIBITIONS";
+    Layout = "~/Views/Shared/Institute.cshtml";
+}
+
+  <!-- exhibition -->
+
+<header class="header-clone">
+    <div class="header-current-text">CURRENT</div>
+</header>
+
+<main class="exhib-main">
+    @foreach (var item in Model)
+    {
+        <section class="exhib-section">
+            <div class="exhib-image-container">
+                <img src="@item.Pic" class="exhib-image" alt="Exhibition Image" />
+            </div>
+            <div class="exhib-text-content">
+                <h2 class="exhib-title">@item.Name</h2>
+                <p class="exhib-date">
+                    @item.Starts.ToString("dd MMMM yyyy") - @item.Ends.ToString("dd MMMM yyyy")
+                </p>
+            </div>
+        </section>
+    }
+</main>
+
+        <!-- past -->
+
+        <section class="past-exhib-header">
+            <div class="horizontal-line-full"></div>
+            <h1>PAST</h1>
+        </section>
+
+        <!-- 1 -->
+
+        <section class="past-exhib-section">
+            <div class="past-exhib-image-container">
+                <img src="~/images/exhibition2.png"   class="exhib-image">
+            </div>
+            <div class="past-exhib-text-content">
+                <h2 class="past-exhib-title">Shades Of The Familiar</h2>
+                <p class="past-exhib-date">04th September 2024 - 03rd October 2024</p>
+            </div>
+        </section>
+
+        <!-- 2 -->
+
+        <section class="past-exhib-section">
+            <div class="past-exhib-image-container">
+                <img src="~/images/exhibition3.png"   class="exhib-image">
+            </div>
+            <div class="past-exhib-text-content">
+                <h2 class="past-exhib-title">Zikr Volume IV</h2>
+                <p class="past-exhib-date">18th March 2025 - 12th April 2025</p>
+            </div>
+        </section>
+
+        <!-- 3 -->
+
+        <section class="past-exhib-section">
+            <div class="past-exhib-image-container">
+                <img src="~/images/exhibition4.png"   class="exhib-image">
+            </div>
+            <div class="past-exhib-text-content">
+                <h2 class="past-exhib-title">20th Emerging Talent Exhibition</h2>
+                <p class="past-exhib-date">11th January 2025 - 15th February 2025</p>
+            </div>
+        </section>
+
+        <!-- 4 -->
+
+        <section class="past-exhib-section">
+            <div class="past-exhib-image-container">
+                <img src="~/images/exhibition5.png"   class="exhib-image">
+            </div>
+            <div class="past-exhib-text-content">
+                <h2 class="past-exhib-title">Seeds Of Yesterday</h2>
+                <p class="past-exhib-date">18th December 2024 - 28th December 2024</p>
+            </div>
+        </section>
+
+        <!-- 5 -->
+
+        <section class="past-exhib-section">
+            <div class="past-exhib-image-container">
+                <img src="~/images/exhibition6.png"   class="exhib-image">
+            </div>
+            <div class="past-exhib-text-content">
+                <h2 class="past-exhib-title">A Winter’s Tale</h2>
+                <p class="past-exhib-date">14th December 2024 - 28th December 2024</p>
+            </div>
+        </section>
+
+        <!-- 6 -->
+
+        <section class="past-exhib-section">
+            <div class="past-exhib-image-container">
+                <img src="~/images/exhibition7.png"   class="exhib-image">
+            </div>
+            <div class="past-exhib-text-content">
+                <h2 class="past-exhib-title">Figures of Expression</h2>
+                <p class="past-exhib-date">09th November 2024 - 30th November 2024</p>
+            </div>
+        </section>
+
+        <!-- 7 -->
+
+        <section class="past-exhib-section">
+            <div class="past-exhib-image-container">
+                <img src="~/images/exhibition8.png"   class="exhib-image">
+            </div>
+            <div class="past-exhib-text-content">
+                <h2 class="past-exhib-title">Rangon ki Lehr Volume II</h2>
+                <p class="past-exhib-date">27th April 2024 - 04th May 2024</p>
+            </div>
+        </section>
+
+
+    </main>
+
+    <!-- exhibition ends -->
+

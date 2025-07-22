@@ -1,0 +1,47 @@
+﻿@model List<IOFA.Models.Art>
+@{
+    ViewData["Title"] = "Student Artworks";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+<div class="main-scrollable-content">
+    <div class="card-style">
+        <div class="mb-4 d-flex justify-content-between align-items-center">
+            <h4 class="fw-bold mb-0"><i class="fa fa-image me-2 text-primary"></i>Student Artworks</h4>
+        </div>
+
+        <div class="row g-4">
+            @foreach (var art in Model)
+            {
+                <div class="col-12 col-sm-6 col-lg-4 col-xl-3">
+                    <div class="card border-0 shadow-sm h-100">
+                        <img src="@art.Path" class="card-img-top" alt="Artwork Image">
+                        <div class="card-body">
+                            <h5 class="card-title">@art.Title</h5>
+                            <p class="card-text text-muted mb-1">
+                                <strong>Uploaded By:</strong>
+                                @{
+                                    var uploader = "Unknown";
+
+                                    if (!string.IsNullOrEmpty(art.UploadedBy) && ViewBag.StudentNames?.ContainsKey(art.UploadedBy) == true)
+                                    {
+                                        uploader = ViewBag.StudentNames[art.UploadedBy];
+                                    }
+                                    else if (!string.IsNullOrEmpty(art.UploaderName))
+                                    {
+                                        uploader = art.UploaderName;
+                                    }
+                                }
+                                @uploader
+                            </p>
+                            <p class="card-text">
+                                <strong>Description:</strong> @art.Description
+                            </p>
+                        </div>
+                        
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

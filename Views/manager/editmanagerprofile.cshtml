@@ -1,0 +1,35 @@
+﻿@{
+    Layout = "~/Views/Shared/Manager.cshtml";
+}
+
+<div class="card-style">
+    <h4 class="fw-bold mb-4">Edit Profile</h4>
+    <form>
+        <div class="row mb-3">
+            <div class="col-md-6">
+                <label class="form-label">Full Name</label>
+                <input type="text" class="form-control" value="Muhammad Subhan Ansari" />
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Email</label>
+                <input type="email" class="form-control" value="manager@example.com" />
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-6">
+                <label class="form-label">Phone</label>
+                <input type="text" class="form-control" value="+92-300-1234567" />
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Department</label>
+                <input type="text" class="form-control" value="Gallery Management" />
+            </div>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Profile Picture</label>
+            <input type="file" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-danger"><i class="fa fa-save me-1"></i> Save Changes</button>
+        <a href="@Url.Action("managerprofile", "Manager")" class="btn btn-secondary ms-2">Cancel</a>
+    </form>
+</div>

@@ -1,0 +1,43 @@
+﻿@model IOFA.Models.Manager
+
+@{
+    Layout = "~/Views/Shared/Manager.cshtml";
+}
+
+<!-- Profile Card -->
+<div class="card-style mb-4">
+    <div class="d-flex align-items-center">
+        <img src="~/Manager/img/user.jpg" alt="Profile Picture" class="profile-img me-4 rounded-circle" style="width: 80px; height: 80px; object-fit: cover;" />
+        <div>
+            <h4 class="fw-bold mb-1">@Context.Session.GetString("ManagerName")</h4>
+            <p class="mb-0 text-muted">Manager | VM Art Gallery</p>
+        </div>
+    </div>
+</div>
+
+<!-- Profile Details -->
+<div class="card-style">
+    <h5 class="fw-bold mb-3">Profile Details</h5>
+
+    <div class="row mb-2">
+        <div class="col-md-6">
+            <strong>Email:</strong> @Context.Session.GetString("ManagerEmail")
+        </div>
+        <div class="col-md-6">
+            <strong>Phone:</strong> @Context.Session.GetString("ManagerPhone")
+        </div>
+    </div>
+
+    <div class="row mb-2">
+        <div class="col-md-6">
+            <strong>Department:</strong> Gallery Management
+        </div>
+        <div class="col-md-6">
+            <strong>Joined:</strong> Jan 2022
+        </div>
+    </div>
+
+    <a href="@Url.Action("editmanagerprofile", "manager")" class="btn btn-danger mt-3">
+        <i class="fa fa-edit me-1"></i> Edit Profile
+    </a>
+</div>

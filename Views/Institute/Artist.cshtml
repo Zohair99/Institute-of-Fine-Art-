@@ -1,0 +1,29 @@
+﻿@model List<IOFA.Models.Art>
+
+@{
+    ViewData["Title"] = "IOFA | ARTIST";
+    Layout = "~/Views/Shared/Institute.cshtml";
+    var studentNames = ViewBag.StudentNames as Dictionary<string, string>;
+}
+
+<div class="artist-gallery-container">
+    <div class="artist-row">
+        @foreach (var item in Model)
+        {
+            if (!string.IsNullOrEmpty(item.UploadedBy) && studentNames.ContainsKey(item.UploadedBy))
+            {
+                var studentName = studentNames[item.UploadedBy];
+                var idName = studentName.ToLower().Replace(" ", "-");
+
+                var imagePath = item.Path.StartsWith("/") || item.Path.StartsWith("~")
+                ? Url.Content(item.Path)
+                : Url.Content("~/images/" + item.Path);
+                <div class="artist-card">
+                    <img src="@imagePath" alt="Artwork by @studentName" class="artist-image"
+                         id="artist-image-@idName">
+                    <p class="artist-name" id="artist-name-@idName">@studentName</p>
+                </div>
+            }
+        }
+    </div>
+</div>

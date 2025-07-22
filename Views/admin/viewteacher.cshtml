@@ -1,0 +1,37 @@
+﻿@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+
+<div class="card-style">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h4 class="fw-bold mb-0">View Teacher</h4>
+        <a href="@Url.Action("Teachers", "Admin")" class="btn btn-sm btn-outline-secondary"><i class="fa fa-arrow-left me-1"></i> Back</a>
+    </div>
+
+    <div class="row g-4">
+        <div class="col-md-4 text-center">
+            <img src="~/Admin/img/user.jpg" class="rounded-circle border shadow-sm" style="width: 120px;" />
+            <h5 class="mt-3 mb-0">Ali Raza</h5>
+            <small class="text-muted">Senior Art Teacher</small>
+        </div>
+        <div class="col-md-8">
+            <div class="mb-3">
+                <label class="form-label">Email</label>
+                <div class="form-control bg-light">ali.raza@example.com</div>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Phone</label>
+                <div class="form-control bg-light">+92-300-4567890</div>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Specialization</label>
+                <div class="form-control bg-light">Painting & Drawing</div>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Address</label>
+                <div class="form-control bg-light">House #45, Garden Town, Lahore</div>
+            </div>
+        </div>
+    </div>
+</div>

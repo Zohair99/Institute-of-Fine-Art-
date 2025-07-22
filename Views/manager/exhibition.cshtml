@@ -1,0 +1,26 @@
+﻿@model List<IOFA.Models.Exhibition>
+
+@{
+    ViewData["Title"] = "Exhibitions";
+    Layout = "~/Views/Shared/Manager.cshtml";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h5 class="mb-0 fw-bold">All Previous Exhibitions</h5>
+</div>
+
+<div class="row g-4">
+    @foreach (var exhibition in Model)
+    {
+        <div class="col-md-6 col-lg-4">
+            <div class="card-style">
+                <img src="@exhibition.Pic" alt="Exhibition Image" class="w-100" style="height: 200px; object-fit: cover;" />
+                <div class="p-4">
+                    <h5 class="fw-bold mb-2">@exhibition.Name</h5>
+                    <p class="mb-1"><strong>Start Date:</strong> @exhibition.Starts.ToString("yyyy-MM-dd")</p>
+                    <p class="mb-1"><strong>End Date:</strong> @exhibition.Ends.ToString("yyyy-MM-dd")</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

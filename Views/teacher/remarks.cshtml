@@ -1,0 +1,60 @@
+﻿@model IOFA.Models.Art
+@{
+    ViewData["Title"] = "remarks";
+    Layout = "~/Views/Shared/teacher.cshtml";
+}
+
+
+<!-- Main Scrollable Content -->
+<div class="main-scrollable-content py-4">
+    <div class="card-style p-4 shadow-sm rounded border-0">
+        <h4 class="fw-bold mb-4">
+            <i class="fa fa-comment-dots me-2 text-danger"></i> Give Remarks
+        </h4>
+
+        <!-- Artwork Image -->
+        <div class="text-center mb-4">
+            <img src="@Model.Path" alt="Student Artwork" class="img-fluid rounded shadow" style="max-height: 300px;" />
+        </div>
+
+        <!-- Remarks Form -->
+        <form method="post" action="@Url.Action("saveRemarks", "teacher")">
+            <input type="hidden" name="ArtId" value="@Model.Id" />
+
+            <div class="mb-3">
+                <label class="form-label fw-semibold">Student Name</label>
+                <input type="text" class="form-control" value="@ViewBag.UploaderName" readonly />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label fw-semibold">Artwork Title</label>
+                <input type="text" class="form-control" value="@Model.Title" readonly />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label fw-semibold">Your Remarks</label>
+                <textarea name="Remarks" class="form-control" rows="5" placeholder="Write your feedback here..." required></textarea>
+            </div>
+
+            <div class="d-flex justify-content-between">
+                <a href="@Url.Action("arts", "teacher")" class="btn btn-outline-secondary">
+                    <i class="fa fa-arrow-left me-1"></i> Back
+                </a>
+                <button type="submit" class="btn btn-danger px-4">
+                    <i class="fa fa-paper-plane me-1"></i> Submit
+                </button>
+            </div>
+        </form>
+
+        @if (TempData["Message"] != null)
+        {
+            <div class="alert alert-success alert-dismissible fade show mt-3" role="alert">
+                @TempData["Message"]
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            </div>
+        }
+    </div>
+</div>
+
+
+</div>

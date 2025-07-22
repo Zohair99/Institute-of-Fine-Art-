@@ -1,0 +1,53 @@
+﻿@model List<IOFA.Models.Award>
+
+@{
+    ViewData["Title"] = "awards";
+    Layout = "~/Views/Shared/Student.cshtml";
+}
+
+
+
+
+
+<section class="mb-4">
+    <table class="table table-striped table-hover align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>#</th>
+                <th>Student Name</th>
+                <th>Competition</th>
+                <th>Position</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                int i = 1;
+                foreach (var award in Model)
+                {
+                    <tr>
+                        <td>@i</td>
+                        <td>@award.StudentName</td>
+                        <td>@award.Title</td>
+                        <td>@award.Position</td>
+
+
+                    </tr>
+                    i++;
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="6" class="text-center">No awards available.</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+  </section>
+
+
+
+
+
