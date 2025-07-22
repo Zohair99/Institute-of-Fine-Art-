@@ -1,0 +1,317 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IOFA
+build_property.RootNamespace = IOFA
+build_property.ProjectDir = C:\Users\Hp\OneDrive\Desktop\IOFA\IOFA\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Hp\OneDrive\Desktop\IOFA\IOFA
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/addstudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRkc3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/addteacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRkdGVhY2hlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/adminhome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRtaW5ob21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/AdminRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cQWRtaW5SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/artwork.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYXJ0d29yay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/editprofile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cZWRpdHByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/editstudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cZWRpdHN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/editteacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cZWRpdHRlYWNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5ccHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/students.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cc3R1ZGVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/teachers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cdGVhY2hlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/viewstudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cdmlld3N0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/admin/viewteacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cdmlld3RlYWNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Institute/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dXRlXEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Institute/Artist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dXRlXEFydGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Institute/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dXRlXENvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Institute/EmergingTalent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dXRlXEVtZXJnaW5nVGFsZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Institute/Exhibition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dXRlXEV4aGliaXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Institute/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dXRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Institute/Press.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dXRlXFByZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Institute/Space.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dXRlXFNwYWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/manager/addexhibition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWFuYWdlclxhZGRleGhpYml0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/manager/arts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWFuYWdlclxhcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/manager/competition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWFuYWdlclxjb21wZXRpdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/manager/editmanagerprofile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWFuYWdlclxlZGl0bWFuYWdlcnByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/manager/exhibition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWFuYWdlclxleGhpYml0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/manager/managerhome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWFuYWdlclxtYW5hZ2VyaG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/manager/managerprofile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWFuYWdlclxtYW5hZ2VycHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/manager/ManagerRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWFuYWdlclxNYW5hZ2VyUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/manager/upcomingexhibitions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWFuYWdlclx1cGNvbWluZ2V4aGliaXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Shared/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Shared/Institute.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEluc3RpdHV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Shared/Manager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Shared/Student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Shared/teacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHRlYWNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Student/awards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxhd2FyZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Student/Competition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDb21wZXRpdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Student/CompetitionArt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDb21wZXRpdGlvbkFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Student/CompetitionUpload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDb21wZXRpdGlvblVwbG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Student/delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxkZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Student/details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxkZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Student/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxlZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Student/editprofile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxlZGl0cHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Student/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Student/gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxnYWxsZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Student/home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxob21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Student/upload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFx1cGxvYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/addaward.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxhZGRhd2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/addcompetition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxhZGRjb21wZXRpdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/arts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxhcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/awards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxhd2FyZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/CompetitionArt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxDb21wZXRpdGlvbkFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/criteria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxjcml0ZXJpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/editaward.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxlZGl0YXdhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/editcompetition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxlZGl0Y29tcGV0aXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/editcriteria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxlZGl0Y3JpdGVyaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/editteacherprofile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxlZGl0dGVhY2hlcnByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/home1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxob21lMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxtYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/mystudents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxteXN0dWRlbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/remarks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxyZW1hcmtzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/teacherprofile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclx0ZWFjaGVycHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/TeacherRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclxUZWFjaGVyUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/teacher/viewarts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGVhY2hlclx2aWV3YXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/IOFA/IOFA/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ihtmifqdyr

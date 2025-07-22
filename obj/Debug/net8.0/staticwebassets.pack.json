@@ -1,0 +1,2429 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IOFA.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IOFA.2zgz7i1p94.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\img\\op.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\op.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Asset\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\css\\style.css",
+      "PackagePath": "staticwebassets\\Asset\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\img\\logo-updated-re.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\logo-updated-re.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\img\\op.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\op.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Asset\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\js\\main.js",
+      "PackagePath": "staticwebassets\\Asset\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Asset\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Asset\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Asset\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Asset\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Asset\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Manager\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\css\\style.css",
+      "PackagePath": "staticwebassets\\Manager\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\img\\op.jpg",
+      "PackagePath": "staticwebassets\\Manager\\img\\op.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Manager\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Manager\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Manager\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\js\\main.js",
+      "PackagePath": "staticwebassets\\Manager\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Manager\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Manager\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Manager\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Manager\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Manager\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Manager\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Manager\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Manager\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Manager\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Manager\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Manager\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Manager\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Manager\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Manager\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Manager\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Manager\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Manager\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Manager\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Manager\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Manager\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Manager\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Manager\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\Manager\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Manager\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\UploadedFiles\\1.png",
+      "PackagePath": "staticwebassets\\UploadedFiles\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\UploadedFiles\\download (1).jpeg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\download (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\UploadedFiles\\download.jpeg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\UploadedFiles\\pngegg.png",
+      "PackagePath": "staticwebassets\\UploadedFiles\\pngegg.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\img\\op.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\op.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\about1.png",
+      "PackagePath": "staticwebassets\\images\\about1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\about2.png",
+      "PackagePath": "staticwebassets\\images\\about2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\about3.png",
+      "PackagePath": "staticwebassets\\images\\about3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\about4.png",
+      "PackagePath": "staticwebassets\\images\\about4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\about5.png",
+      "PackagePath": "staticwebassets\\images\\about5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\about6.png",
+      "PackagePath": "staticwebassets\\images\\about6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\about7.png",
+      "PackagePath": "staticwebassets\\images\\about7.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\contact.png",
+      "PackagePath": "staticwebassets\\images\\contact.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\display1.png",
+      "PackagePath": "staticwebassets\\images\\display1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\display2.png",
+      "PackagePath": "staticwebassets\\images\\display2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\display3.png",
+      "PackagePath": "staticwebassets\\images\\display3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\display4.png",
+      "PackagePath": "staticwebassets\\images\\display4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\display5.png",
+      "PackagePath": "staticwebassets\\images\\display5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\e1.png",
+      "PackagePath": "staticwebassets\\images\\e1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\e2.png",
+      "PackagePath": "staticwebassets\\images\\e2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\e3.png",
+      "PackagePath": "staticwebassets\\images\\e3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\e4.png",
+      "PackagePath": "staticwebassets\\images\\e4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\e5.png",
+      "PackagePath": "staticwebassets\\images\\e5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\e6.png",
+      "PackagePath": "staticwebassets\\images\\e6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\eg1.jpg",
+      "PackagePath": "staticwebassets\\images\\eg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\eg2.jpg",
+      "PackagePath": "staticwebassets\\images\\eg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\eg3.jpg",
+      "PackagePath": "staticwebassets\\images\\eg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\exhibition1.png",
+      "PackagePath": "staticwebassets\\images\\exhibition1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\exhibition2.png",
+      "PackagePath": "staticwebassets\\images\\exhibition2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\exhibition3.png",
+      "PackagePath": "staticwebassets\\images\\exhibition3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\exhibition4.png",
+      "PackagePath": "staticwebassets\\images\\exhibition4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\exhibition5.png",
+      "PackagePath": "staticwebassets\\images\\exhibition5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\exhibition6.png",
+      "PackagePath": "staticwebassets\\images\\exhibition6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\exhibition7.png",
+      "PackagePath": "staticwebassets\\images\\exhibition7.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\exhibition8.png",
+      "PackagePath": "staticwebassets\\images\\exhibition8.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\footer1.png",
+      "PackagePath": "staticwebassets\\images\\footer1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\footer2.png",
+      "PackagePath": "staticwebassets\\images\\footer2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\footer3.png",
+      "PackagePath": "staticwebassets\\images\\footer3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\footer4.png",
+      "PackagePath": "staticwebassets\\images\\footer4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\footer5.png",
+      "PackagePath": "staticwebassets\\images\\footer5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\galleryA.png",
+      "PackagePath": "staticwebassets\\images\\galleryA.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\galleryB.png",
+      "PackagePath": "staticwebassets\\images\\galleryB.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\galleryC.png",
+      "PackagePath": "staticwebassets\\images\\galleryC.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\galley1.png",
+      "PackagePath": "staticwebassets\\images\\galley1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\galley2.png",
+      "PackagePath": "staticwebassets\\images\\galley2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\galley3.png",
+      "PackagePath": "staticwebassets\\images\\galley3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\logo-updated-re.jpg",
+      "PackagePath": "staticwebassets\\images\\logo-updated-re.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\pr1.png",
+      "PackagePath": "staticwebassets\\images\\pr1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\pr10.png",
+      "PackagePath": "staticwebassets\\images\\pr10.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\pr11.png",
+      "PackagePath": "staticwebassets\\images\\pr11.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\pr2.png",
+      "PackagePath": "staticwebassets\\images\\pr2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\pr3.png",
+      "PackagePath": "staticwebassets\\images\\pr3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\pr4.png",
+      "PackagePath": "staticwebassets\\images\\pr4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\pr5.png",
+      "PackagePath": "staticwebassets\\images\\pr5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\pr6.png",
+      "PackagePath": "staticwebassets\\images\\pr6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\pr7.png",
+      "PackagePath": "staticwebassets\\images\\pr7.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\pr8.png",
+      "PackagePath": "staticwebassets\\images\\pr8.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\pr9.png",
+      "PackagePath": "staticwebassets\\images\\pr9.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\press6.png",
+      "PackagePath": "staticwebassets\\images\\press6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\resarchlibrary.png",
+      "PackagePath": "staticwebassets\\images\\resarchlibrary.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\script.js",
+      "PackagePath": "staticwebassets\\images\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\slide.png",
+      "PackagePath": "staticwebassets\\images\\slide.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\space1.png",
+      "PackagePath": "staticwebassets\\images\\space1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\space2.png",
+      "PackagePath": "staticwebassets\\images\\space2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\space3.png",
+      "PackagePath": "staticwebassets\\images\\space3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\space4.png",
+      "PackagePath": "staticwebassets\\images\\space4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\space5.png",
+      "PackagePath": "staticwebassets\\images\\space5.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\space6.png",
+      "PackagePath": "staticwebassets\\images\\space6.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\images\\style.css",
+      "PackagePath": "staticwebassets\\images\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\style\\style.css",
+      "PackagePath": "staticwebassets\\style\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\styles\\style.css",
+      "PackagePath": "staticwebassets\\styles\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\styless\\style.css",
+      "PackagePath": "staticwebassets\\styless\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\197c4fcb-7b15-471d-81f8-18f30e9e3c26.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\197c4fcb-7b15-471d-81f8-18f30e9e3c26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\2e6de661-83dc-4ea0-8d0c-11cdd6a7310c_Dell Precision Wallpapers.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2e6de661-83dc-4ea0-8d0c-11cdd6a7310c_Dell Precision Wallpapers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\325bd9a4-3edd-4e69-a3a7-12c828fc5ac4_Screenshot 2025-07-22 065136.png",
+      "PackagePath": "staticwebassets\\uploads\\325bd9a4-3edd-4e69-a3a7-12c828fc5ac4_Screenshot 2025-07-22 065136.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\3620121e-4b7d-453e-8f99-090c0d1946d2_download (1).jpeg",
+      "PackagePath": "staticwebassets\\uploads\\3620121e-4b7d-453e-8f99-090c0d1946d2_download (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\3a5d89a1-5b74-452b-80f7-fef9638bf69e_download.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\3a5d89a1-5b74-452b-80f7-fef9638bf69e_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\3ca16b67-fa51-4daa-88b8-1e7a7efdc38c.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\3ca16b67-fa51-4daa-88b8-1e7a7efdc38c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\45e20a20-8615-4786-879a-c908ff48cc1a_download.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\45e20a20-8615-4786-879a-c908ff48cc1a_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\663b448c-b74c-4d9c-8386-052bae019e7e.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\663b448c-b74c-4d9c-8386-052bae019e7e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\6afdcfa6-e58f-4325-a278-7de8b1d456f6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6afdcfa6-e58f-4325-a278-7de8b1d456f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\8397ac31-0359-4d1c-98c9-6052b998c68d_Screenshot 2025-07-22 072851.png",
+      "PackagePath": "staticwebassets\\uploads\\8397ac31-0359-4d1c-98c9-6052b998c68d_Screenshot 2025-07-22 072851.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\8f251509-b43e-4b18-a7ba-859fa7bf36f2_download.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\8f251509-b43e-4b18-a7ba-859fa7bf36f2_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\94f4324c-e90d-47dc-9daf-5b65f3d97067_Screenshot 2025-07-22 072851.png",
+      "PackagePath": "staticwebassets\\uploads\\94f4324c-e90d-47dc-9daf-5b65f3d97067_Screenshot 2025-07-22 072851.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\97265c9a-1033-49dd-9a7b-98ceac7011fb_download (1).jpeg",
+      "PackagePath": "staticwebassets\\uploads\\97265c9a-1033-49dd-9a7b-98ceac7011fb_download (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\974248ad-60d8-4d4f-8455-f365b6d27229_download.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\974248ad-60d8-4d4f-8455-f365b6d27229_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\9ae7b569-f662-48e6-90d4-b6497ad8aeae_WhatsApp Image 2025-07-21 at 22.41.20_0d2a9bc2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9ae7b569-f662-48e6-90d4-b6497ad8aeae_WhatsApp Image 2025-07-21 at 22.41.20_0d2a9bc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\9af80374-be19-403a-aeca-266639db4235_Screenshot 2025-07-22 072851.png",
+      "PackagePath": "staticwebassets\\uploads\\9af80374-be19-403a-aeca-266639db4235_Screenshot 2025-07-22 072851.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\a37381d6-7bc2-496c-83da-ceea89a607d9_download (1).jpeg",
+      "PackagePath": "staticwebassets\\uploads\\a37381d6-7bc2-496c-83da-ceea89a607d9_download (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\aba5e951-c32c-4c78-aff5-33d5fe77a0b1_download.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\aba5e951-c32c-4c78-aff5-33d5fe77a0b1_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\b90b45ce-a216-4692-aedc-262f71159f4f.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\b90b45ce-a216-4692-aedc-262f71159f4f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\bb4aa59a-3948-4512-b9a8-f11c2c0095e8.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\bb4aa59a-3948-4512-b9a8-f11c2c0095e8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\bc2ebd8e-4eff-4f38-a0df-2bd9ec520fdc.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\bc2ebd8e-4eff-4f38-a0df-2bd9ec520fdc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\c3b18e82-be46-4d4a-98f3-f75f01e12de5_Dell Precision Wallpapers.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c3b18e82-be46-4d4a-98f3-f75f01e12de5_Dell Precision Wallpapers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\eb773101-d7a7-4b11-ac97-4a1dfb858d93_download (1).jpeg",
+      "PackagePath": "staticwebassets\\uploads\\eb773101-d7a7-4b11-ac97-4a1dfb858d93_download (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\IOFA\\IOFA\\wwwroot\\uploads\\f5009d3e-d555-45ae-8937-b6e1b34de4a1_download.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\f5009d3e-d555-45ae-8937-b6e1b34de4a1_download.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IOFA.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IOFA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IOFA.props",
+      "PackagePath": "build\\IOFA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IOFA.props",
+      "PackagePath": "buildMultiTargeting\\IOFA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IOFA.props",
+      "PackagePath": "buildTransitive\\IOFA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
